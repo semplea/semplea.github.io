@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # A place for thoughts without structure or end
 
 Hi everybody!
