@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Alexis
 title: About me
 ---
 
