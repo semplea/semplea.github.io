@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My fancy title
-permalink: /posts/
 ---
 # My fancy title
 
