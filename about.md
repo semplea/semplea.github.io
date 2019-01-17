@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Alexis
+by: Alexis
 title: About me
 ---
 
