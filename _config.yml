@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: simple semple sample
+email: semple.alexis@gmail.com
 description: ASemple here!
-permalink: pretty
+
+markdown: kramdown
+permalink: /:year/:title:output_ext
