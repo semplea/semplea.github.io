@@ -1,5 +1,3 @@
-# A place for thoughts without structure or end
-
 Hi everybody!
 
 I apologise in advance. My name is Alexis, I am, among many other things, a computer scientist, and as everyone knows, a good computer scientist writes passionately about his work.
