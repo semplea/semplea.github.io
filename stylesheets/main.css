@@ -5,3 +5,10 @@
   width: 65%;
   max-width: 100%;
 }
+
+.gifcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
