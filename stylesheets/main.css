@@ -34,3 +34,22 @@
   clear: both;
   display: table;
 }
+
+.before-after {
+    width: 608px;
+    margin: 1em auto;
+    border: 1px dotted #1f4056;
+    padding: 0 4px;
+ }
+.before-after p {
+    display: inline-block;
+    line-height: 1.8em;
+    text-align: center;
+    width: 49%;
+    margin: 0;
+}
+.before-after img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+ }
