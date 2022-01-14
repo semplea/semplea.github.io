@@ -1,5 +1,10 @@
-theme: minima
-title: simple semple sample
-email: semple.alexis@gmail.com
-description: ASemple here!
-permalink: /:year/:title:output_ext
+lsi: false
+safe: true
+source: semplea.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
