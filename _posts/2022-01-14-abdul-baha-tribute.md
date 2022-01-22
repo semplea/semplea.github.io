@@ -3,7 +3,7 @@ layout: post
 title: A personal tribute to 'Abdu'l-Bahá
 subtitle: Reflections on the perfect Exemplar and following in His footsteps
 youtubeId: pXc0cOhrcW4
-author: alexis_semple
+author: Alexis Semple
 ---
 
 2021 was a special year, and it feels strange to say it. It might seem primarily like a year where challenges which humanity has never faced before has pushed us all to the limits of our collective capacity. A difficult time from many perspectives. But this was also the year in which Bahá'ís and many others were commemorating a historical moment: a full one hundred years since the passing of 'Abdu'l-Bahá.
