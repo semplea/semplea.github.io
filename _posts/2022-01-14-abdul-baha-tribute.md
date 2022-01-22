@@ -7,8 +7,7 @@ youtubeId: pXc0cOhrcW4
 
 2021 was a special year, and it feels strange to say it. It might seem primarily like a year where challenges which humanity has never faced before has pushed us all to the limits of our collective capacity. A difficult time from many perspectives. But this was also the year in which Bahá'ís and many others were commemorating a historical moment: a full one hundred years since the passing of 'Abdu'l-Bahá.
 
-{% include image.html url="/assets/" description="My cat, Robert Downey Jr." %}
-| *'Abdu'l-Bahá in Dublin, New Hampshire, 26 July 1912. Copyright © Bahá’í International Community* |
+{% include image.html url="/assets/abdul-baha-smile" description="'Abdu'l-Bahá in Dublin, New Hampshire, 26 July 1912. Copyright © Bahá’í International Community" %}
 
 I imagine that many of you who might glance through this post are already familiar with His life, which is, in the Bahá'í Faith, the perfect embodiment of the Teachings given to humanity by His father, Bahá'u'lláh, the founder of the Faith. Others might have heard this exotic name (or rather, title) thrown out in conversation, with more or sometimes less background information given. Whatever the case, these personal musings are just an inadequate attempt at describing my experience with what is possibly, for all of humanity, an occasion to reflect on a uniquely significant life, one that remains significant for all of the challenges we're striving to overcome today.
 
