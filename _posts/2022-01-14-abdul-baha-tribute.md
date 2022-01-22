@@ -34,11 +34,12 @@ There are so many examples of 'Abdu'l-Bahá's beautiful, wise, keenly applicable
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+
 In the course of this year, like countless others, I've been eagerly reading, viewing, listening to many sources to gain an impression, sometimes fleeting, sometimes lasting, of the walk that He walked.
 
 > What a force lies in the personality of Abdul Baha! Rarely, if ever, have I beheld one so imbued with truth and grace as this man. Seldom or never have I been more profoundly affected than when, in taking leave of me at our last interview, he embraced and kissed me in oriental fashion and charged me that my life should be fruitful – an influence for good – a means of aiding and uplifting others. Never perhaps before had I so well realized as then the infinity of the human soul, or the incomprehensible potency of its appeal. The personality of Abdul Baha was, and remains, a mighty mystery to me. All men are wonderful. But this man seems to include so much. And when we reflect upon his significance, he becomes more wonderful still. (Richard Dimsdale Stocker, a writer and member of the Ethical Movement, who met 'Abdu’l-Baha on several occasions and wrote an article for _The Ethical World_)
 
-![‘Abdu’l-Bahá in the Holy Land. Copyright © Bahá’í International Community](/assets/abdul-baha-writing.jpeg)
+{% include image.html url="/assets/abdul-baha-writing.jpeg" description="‘Abdu’l-Bahá in the Holy Land. Copyright © Bahá’í International Community" %}
 
 Knowing of such accounts has been helpful to be able to relate them to other situations I can observe around me. But beyond the knowledge of such details, it seems like there is a huge bundle of capacities and attitudes that must constantly be refined in order to simply strive to take a step in the same direction. The capacity to draw on the power of prayer; the capacity to see only the good in others, and overlook their faults; the capacity to unify seemingly opposing viewpoints and encourage to work for a unified purpose; the capacity to work, without compromise, to promote justice; the capacity to shower love, without limit, on every person met; the capacity to work alongside many others in selfless service to all of humanity.
 
@@ -47,7 +48,7 @@ Knowing of such accounts has been helpful to be able to relate them to other sit
 
 # A small tribute
 
-![Album art, created by Nelli Newport](/assets/glad-tidings.jpeg)
+{% include image.html url="/assets/glad-tidings.jpeg" description="Album art, created by Nelli Newport" %}
 
 It has been a special joy this year, on top of efforts to learn alongside many friends how to follow 'Abdu'l-Bahá's example through our humble words and deeds, to contribute a short EP of prayers and quotes of His put to music. My dear friend, Yasmin, was the driving force behind the project, and I was happy to be along for the experience. Many others contributed, most notably Emily, with her vocals and violin, Sandro, with his drum kit and Lukas, with his many hours of recording and mixing. And dear Nelli contributed with the artwork for the release. The songs can be listened to on [bandcamp](https://yasmindoust.bandcamp.com/).
 
@@ -57,7 +58,7 @@ The passages we chose are some that at some moment have inspired us and given us
 
 > O Thou compassionate God! Bestow upon me a heart which, like unto a glass, may be illumined with the light of Thy love, and confer upon me thoughts which may change this world into a rose garden through the outpourings of heavenly grace. ([Prayer by 'Abdu'l-Bahá](www.bahai.org/r/803431713))
 
-![‘Abdu’l-Bahá with a group of friends in Stuttgart, Germany, 1913. Copyright © Bahá’í International Community](/assets/abdul-baha-stuttgart.jpeg)
+{% include image.html url="/assets/abdul-baha-stuttgart.jpeg" description="‘Abdu’l-Bahá with a group of friends in Stuttgart, Germany, 1913. Copyright © Bahá’í International Community" %}
 
 This part of a prayer quoted is something I'm very grateful for having learned by heart at some point. It allows me to recognise the importance of what we try to radiate towards others, something which is otherwise extremely challenging, in an environment where our insistent ego is very often given free reign and feels legitimised in being self-absorbed rather than selfless. It gives me some small feeling for with what infinite love and tenderness God wishes for all of humanity to progress together in unity.
 
@@ -65,4 +66,4 @@ This part of a prayer quoted is something I'm very grateful for having learned b
 
 The poetic beauty of this passage from one of 'Abdu'l-Bahá's tablets is something obvious at first reading, but what really strikes me about it is the clear message: this is a day for being joyful, grateful, looking towards an incredible outpouring of blessings that are flowing over humanity. As I noted at the beginning of this post, when we see the many sufferings and collective and individual challenges around the world, it might be difficult to see this reality described by 'Abdu'l-Bahá. We are, perhaps, mostly 'heedless' and 'faded'. It becomes clear that this reality is within the spiritual life of humanity. While the challenges which are being and will be faced are probably greater than they have ever been, the capacity to fittingly overcome them, while still far from perfect, is also greater than ever. And the capacity continues to grow as more and more souls strive to find their meaningful and consistent contribution. This signal for humanity's dawning age of maturity is truly incredible. As we stand at the threshold of a significant step forward in our collective and individual functioning, we might still be clouded by many doubts and confusions. But 'Abdu'l-Bahá's example shines a clear light in the direction which will lead to the progress of all.
 
-![Sycamore tree in the gardens surrounding the Shrine of Bahá'u'lláh. Copyright © Bahá’í International Community](/assets/sycamore-tree.jpeg)
+{% include image.html url="/assets/sycamore-tree.jpeg" description="Sycamore tree in the gardens surrounding the Shrine of Bahá'u'lláh. Copyright © Bahá’í International Community" %}
