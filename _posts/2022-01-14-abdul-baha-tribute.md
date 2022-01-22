@@ -7,7 +7,7 @@ youtubeId: pXc0cOhrcW4
 
 2021 was a special year, and it feels strange to say it. It might seem primarily like a year where challenges which humanity has never faced before has pushed us all to the limits of our collective capacity. A difficult time from many perspectives. But this was also the year in which Bahá'ís and many others were commemorating a historical moment: a full one hundred years since the passing of 'Abdu'l-Bahá.
 
-{% include image.html url="/assets/abdul-baha-smile.jpeg" description="'Abdu'l-Bahá in Dublin, New Hampshire, 26 July 1912. Copyright © Bahá’í International Community" %}
+{% include image.html url="/assets/abdul-baha-walking.jpeg" description="Colorized image of ‘Abdu’l-Bahá in the Holy Land, c. 1920. Copyright © Bahá’í International Community" %}
 
 I imagine that many of you who might glance through this post are already familiar with His life, which is, in the Bahá'í Faith, the perfect embodiment of the Teachings given to humanity by His father, Bahá'u'lláh, the founder of the Faith. Others might have heard this exotic name (or rather, title) thrown out in conversation, with more or sometimes less background information given. Whatever the case, these personal musings are just an inadequate attempt at describing my experience with what is possibly, for all of humanity, an occasion to reflect on a uniquely significant life, one that remains significant for all of the challenges we're striving to overcome today.
 
@@ -17,6 +17,8 @@ I imagine that many of you who might glance through this post are already famili
 # How to reflect
 
 'Abdu'l-Bahá has always been there for me. I grew up in a household, where stories were told about His life, where we had pictures of Him on our shelves and walls. I always knew He was important, His example was something to think about. But it wasn't easy for me to find the words as to why. I remember struggling to explain who 'Abdu'l-Bahá was to friends asking about His portrait. My inventive mind found many strange ways out of this feeling of inadequacy, at times saying "He was my (great) grandfather" or "That's 'Abdu'l-Bahá", and quickly changing the subject to something less puzzling. A black and white picture of a smiling man in oriental dress is not something that one usually sees hanging in a swiss home. More common elements are pictures of kids, dogs, cats or mountains. So why did we have this culturally out-of-place portrait?
+
+{% include image.html url="/assets/abdul-baha-smile.jpeg" description="'Abdu'l-Bahá in Dublin, New Hampshire, 26 July 1912. Copyright © Bahá’í International Community" %}
 
 To be honest, it's still not easy for me to put into words. I guess the right words are particularly difficult to find when what we're trying to say is so important.
 
