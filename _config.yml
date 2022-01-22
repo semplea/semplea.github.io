@@ -2,8 +2,8 @@ lsi: false
 safe: true
 source: semplea.github.io
 incremental: false
-title: a simple semple sample 
-description: Hopefully something interesting 
+title: Just another blog
+description: Hopefully something interesting
 highlighter: rouge
 gist:
   noscript: false
